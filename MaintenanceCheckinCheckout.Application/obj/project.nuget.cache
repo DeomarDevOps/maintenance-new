@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRDMkgFaSnkOUfdk5UfCL6O+t9p24BSKtxNjM42mL4kTzU+FJS7map5j0uW10eA3l4kY9zPhgoJLRJsV6isxKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SergioBonani\\Documents\\Projetos\\Unidas-OV\\POC\\MaintenanceCheckinCheckout\\MaintenanceCheckinCheckout.Application\\MaintenanceCheckinCheckout.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SergioBonani\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\SergioBonani\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SergioBonani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
